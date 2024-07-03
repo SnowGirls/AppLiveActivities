@@ -11,6 +11,7 @@
 
 
 ### Demonstration
+> Please wait for a minute, it's loading 4MB GIF ...
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/SnowGirls/AppLiveActivities/master/Scripts/Kapture.gif" width=380>
