@@ -1,0 +1,1 @@
+for i in {1..24}; do ./apns_push_live_activity.sh WO5V2P88HT com.your.bundle.id.dev TGH98668KO $HOME/Desktop/AuthKey_TGH98668KO.p8 X8OI89OQQ_Live_activity_token $((i * 5)); sleep 5; done;
